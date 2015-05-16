@@ -1,6 +1,6 @@
 {
   "name": "atom-selection-ast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test if an AST node is within the current selection in Atom",
   "main": "index.js",
   "license": "MIT",

@@ -1,0 +1,33 @@
+{
+  "name": "atom-selection-ast",
+  "version": "1.0.0",
+  "description": "Test if an AST node is within the current selection in Atom",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/atom-selection-ast.git"
+  },
+  "keywords": [
+    "atom",
+    "editor",
+    "selection",
+    "parse",
+    "syntax",
+    "ast",
+    "esprima",
+    "acorn"
+  ],
+  "homepage": "https://github.com/hughsk/atom-selection-ast",
+  "bugs": {
+    "url": "https://github.com/hughsk/atom-selection-ast/issues"
+  }
+}
